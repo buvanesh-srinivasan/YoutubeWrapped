@@ -1,0 +1,6 @@
+@YoutubeWrapped.Server_HostAddress = http://localhost:5250
+
+GET {{YoutubeWrapped.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
